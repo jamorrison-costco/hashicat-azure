@@ -60,7 +60,7 @@ variable "admin_password" {
 }
 
 variable "height" {
-  default     = "1000"
+  default     = "100"
   description = "Image height in pixels."
 }
 
